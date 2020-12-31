@@ -1,0 +1,13 @@
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.exe
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.deps.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.runtimeconfig.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.runtimeconfig.dev.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.dll
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\bin\Debug\netcoreapp3.1\Codility_Arrays.pdb
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.csprojAssemblyReference.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.AssemblyInfoInputs.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.AssemblyInfo.cs
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.csproj.CoreCompileInputs.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.dll
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.pdb
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Arrays\obj\Debug\netcoreapp3.1\Codility_Arrays.genruntimeconfig.cache

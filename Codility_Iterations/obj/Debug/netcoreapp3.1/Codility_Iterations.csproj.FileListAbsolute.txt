@@ -1,0 +1,13 @@
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.exe
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.deps.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.runtimeconfig.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.runtimeconfig.dev.json
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.dll
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\bin\Debug\netcoreapp3.1\Codility_Iterations.pdb
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.csprojAssemblyReference.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.AssemblyInfoInputs.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.AssemblyInfo.cs
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.csproj.CoreCompileInputs.cache
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.dll
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.pdb
+C:\Desarrollo\.NETCore\ConsoleAlgoritmia\Codility_Iterations\obj\Debug\netcoreapp3.1\Codility_Iterations.genruntimeconfig.cache
